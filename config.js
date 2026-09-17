@@ -20,11 +20,11 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://uptime.zrfme.com/'
+      url: 'https://uptime.cr7.us.ci//'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/shaoyouvip/uptime/'
+      url: 'https://github.com/zhc1029/uptime/'
     },
     {
       text: '博客',
